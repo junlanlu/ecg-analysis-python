@@ -1,0 +1,8 @@
+__pycache__/*
+venv/*
+.idea
+.coverage
+htmlcov/
+cloudserver_db.log
+images/ecg.jpg
+*.log

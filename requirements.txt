@@ -1,0 +1,13 @@
+pytest==6.0.1 
+pytest-pycodestyle==2.2.0
+testfixtures==6.14.2
+coverage
+matplotlib==3.2.2
+scipy==1.5.0
+flask==1.1.2
+requests==2.23.0
+coverage
+pymodm
+pillow
+scikit-image
+dnspython

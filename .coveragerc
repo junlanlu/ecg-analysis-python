@@ -1,0 +1,12 @@
+[run]
+omit = venv/*
+source = .
+command_line = -m pytest -vv --pycodestyle
+
+[report]
+omit =
+    test_*.py
+    patient_gui.py
+    monitor_gui.py
+
+[html]
